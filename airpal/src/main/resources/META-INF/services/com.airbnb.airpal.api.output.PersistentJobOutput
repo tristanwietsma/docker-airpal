@@ -1,0 +1,2 @@
+com.airbnb.airpal.api.output.HiveTablePersistentOutput
+com.airbnb.airpal.api.output.CSVPersistentOutput

@@ -1,0 +1,30 @@
+# Gradle artifacts
+build/
+.gradle/
+gradle/
+*.jar
+
+# Mac files
+.DS_Store
+
+*.hprof
+
+# IntelliJ files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Maven artifacts
+target/
+dependency-reduced-pom.xml
+
+# Node.js artifacts
+node_modules
+npm-debug.log
+
+# JavaScript Build Artifacts
+src/main/resources/assets/build/*
+
+# Airpal configuration
+reference.yml
